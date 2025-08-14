@@ -3,7 +3,7 @@
 
 void EntryPoint()
 {
-    MessageBoxA(0, "Hello niggas", "WebView2Loader emulation", MB_OK);
+    MessageBoxA(0, "Boi u so tuff", "WebView2Loader emulation", MB_OK);
 }
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID reserved)
