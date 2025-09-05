@@ -1,3 +1,6 @@
+[PATCHED]
+to fix this switch the cert too another cert which is valid on Roblox
+
 Welcome
 
 This is another injection method used for Roblox and it is Emulating WebView2Loader
